@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+image: /img/jumbotron.jpg
 heading: Great coffee with a conscienceasasas
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -17,7 +17,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/safari-pinned-tab.svg
+    - image: /img/coffee-gear.png
       text: >-
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
